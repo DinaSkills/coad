@@ -1,0 +1,107 @@
+customer_id,name,email,product_id,product_name,category,order_id,order_date,order_detail_id,quantity
+1,Alice Johnson,alice@example.com,101,Laptop,Electronics,1001,2024-12-01,1,2
+2,Bob Smith,bob@example.com,102,Phone,Electronics,1002,2024-12-02,2,1
+3,Charlie Brown,charlie@example.com,103,Headphones,Accessories,1003,2024-12-03,3,3
+1,Alice Johnson,alice@example.com,104,Book,Books,1004,2024-12-04,4,1
+2,Bob Smith,bob@example.com,105,Shoes,Fashion,1005,2024-12-05,5,2
+3,Charlie Brown,charlie@example.com,106,Tablet,Electronics,1006,2024-12-06,6,1
+14,Customer 2,customer20@example.com,116,Product 101,Accessories,1043,2024-02-23,7,4
+1,Customer 5,customer11@example.com,103,,Books,1044,2024-02-14,8,1
+5,Customer 3,customer6@example.com,104,Product 116,Fashion,1019,2024-02-26,9,4
+17,Customer 18,customer6@example.com,105,Product 120,Accessories,1058,2024-08-18,10,1
+3,Customer 15,customer3@example.com,120,Product 103,Groceries,1097,2024-04-07,11,3
+6,Customer 10,customer18@example.com,116,Product 104,Accessories,1072,2024-09-09,12,5
+18,Customer 3,customer10@example.com,116,Product 113,Groceries,1033,2024-11-19,13,2
+15,Customer 9,customer2@example.com,108,Product 108,Groceries,1013,2024-08-02,14,1
+9,Customer 18,customer2@example.com,101,Product 106,Fashion,1056,2024-09-22,15,2
+13,Customer 1,customer8@example.com,109,Product 111,Groceries,1032,2024-04-10,16,1
+11,Customer 12,,116,Product 114,Fashion,1009,2024-03-18,17,2
+8,Customer 16,customer4@example.com,108,Product 107,Groceries,1049,2024-07-13,18,4
+7,Customer 13,customer12@example.com,101,Product 101,Accessories,1022,2024-01-13,19,3
+12,Customer 15,customer14@example.com,115,Product 117,Fashion,1044,2024-11-30,20,1
+5,Customer 4,customer2@example.com,109,Product 104,Fashion,1024,2024-02-12,21,3
+17,Customer 11,customer8@example.com,109,Product 120,Fashion,1099,2024-10-29,22,5
+2,Customer 9,,118,Product 120,Accessories,1009,2024-12-28,23,3
+17,Customer 11,customer14@example.com,104,,Groceries,1095,2024-09-25,24,4
+6,Customer 9,customer20@example.com,101,Product 112,Books,1034,2024-01-20,25,2
+13,Customer 16,customer18@example.com,107,Product 105,Accessories,1063,2024-11-24,26,1
+10,Customer 4,customer1@example.com,117,Product 114,Books,1082,2024-11-26,27,1
+19,Customer 12,customer14@example.com,119,Product 119,Fashion,1094,2024-07-30,28,3
+6,Customer 20,customer19@example.com,116,Product 105,Accessories,1031,2024-09-28,29,1
+14,Customer 11,customer13@example.com,114,Product 113,Fashion,1091,2024-03-23,30,2
+18,Customer 16,,113,Product 111,Fashion,1099,2024-03-04,31,4
+8,Customer 5,customer5@example.com,106,Product 113,Groceries,1093,2024-12-17,32,2
+7,Customer 5,customer16@example.com,113,Product 116,Electronics,1095,2024-05-12,33,3
+3,Customer 8,,115,Product 114,Accessories,1013,2024-06-25,34,3
+2,Customer 12,customer16@example.com,120,,Fashion,1075,2024-11-23,35,4
+5,Customer 14,customer4@example.com,108,Product 118,Fashion,1072,2024-07-28,36,5
+10,Customer 7,,118,Product 117,Fashion,1081,2024-04-01,37,2
+2,Customer 11,customer15@example.com,118,Product 105,Groceries,1013,2024-03-10,38,1
+4,Customer 13,customer1@example.com,117,Product 120,Books,1030,2024-10-25,39,2
+18,Customer 6,,115,Product 104,Accessories,1076,2024-01-19,40,2
+17,Customer 6,customer12@example.com,103,Product 113,Accessories,1082,2024-07-19,41,1
+6,Customer 5,customer1@example.com,118,,Electronics,1081,2024-11-28,42,5
+11,Customer 14,customer7@example.com,116,Product 113,Electronics,1066,2024-11-26,43,3
+18,Customer 11,customer8@example.com,105,Product 108,Accessories,1093,2024-12-13,44,5
+1,Customer 18,customer20@example.com,119,,Accessories,1044,2024-03-10,45,4
+9,Customer 7,customer14@example.com,119,Product 104,Accessories,1081,2024-12-17,46,3
+15,Customer 3,customer9@example.com,107,Product 109,Accessories,1037,2024-06-21,47,2
+6,Customer 20,customer5@example.com,119,Product 118,Groceries,1081,2024-10-06,48,4
+19,Customer 8,customer16@example.com,102,Product 104,Electronics,1036,2024-08-01,49,5
+7,Customer 11,customer7@example.com,117,Product 117,Books,1005,2024-02-12,50,3
+15,Customer 5,customer10@example.com,115,Product 119,Fashion,1023,2024-09-14,51,3
+18,Customer 3,customer20@example.com,107,Product 114,Groceries,1056,2024-09-01,52,2
+6,Customer 6,customer15@example.com,114,,Books,1060,2024-10-18,53,3
+8,Customer 7,customer17@example.com,119,Product 119,Fashion,1075,2024-12-07,54,1
+18,Customer 7,customer7@example.com,112,Product 120,Fashion,1077,2024-05-07,55,2
+20,Customer 18,customer16@example.com,109,Product 116,Books,1035,2024-05-27,56,5
+16,Customer 1,customer5@example.com,104,Product 108,Electronics,1089,2024-04-22,57,2
+7,Customer 8,customer13@example.com,120,Product 111,Accessories,1100,2024-03-16,58,4
+13,Customer 12,customer15@example.com,115,Product 117,Books,1097,2024-07-18,59,3
+12,Customer 14,customer19@example.com,105,Product 104,Fashion,1013,2024-10-04,60,5
+8,Customer 18,customer12@example.com,115,Product 120,Accessories,1058,2024-05-07,61,2
+2,Customer 13,customer6@example.com,101,Product 110,Accessories,1025,2024-08-10,62,3
+15,Customer 19,customer5@example.com,117,Product 113,Fashion,1048,2024-12-24,63,5
+4,Customer 2,customer10@example.com,104,Product 119,Accessories,1093,2024-05-24,64,5
+1,Customer 19,,103,Product 103,Accessories,1049,2024-09-26,65,5
+4,Customer 2,customer16@example.com,113,,Electronics,1059,2024-10-29,66,4
+5,Customer 13,customer16@example.com,101,Product 112,Groceries,1040,2024-10-30,67,2
+3,Customer 7,,118,Product 120,Fashion,1058,2024-11-05,68,5
+14,Customer 11,customer7@example.com,116,Product 109,Groceries,1059,2024-04-17,69,1
+3,Customer 16,customer9@example.com,118,Product 117,Books,1021,2024-02-02,70,3
+10,Customer 8,customer15@example.com,101,Product 112,Books,1061,2024-07-11,71,3
+19,Customer 11,,103,Product 119,Fashion,1026,2024-12-28,72,5
+15,Customer 17,customer5@example.com,109,Product 111,Fashion,1043,2024-08-06,73,2
+9,Customer 11,customer5@example.com,101,Product 102,Groceries,1036,2024-09-30,74,1
+13,Customer 4,customer15@example.com,116,Product 118,Fashion,1005,2024-06-20,75,1
+16,Customer 6,customer20@example.com,118,Product 103,Books,1095,2024-03-01,76,3
+3,Customer 11,customer13@example.com,109,Product 108,Groceries,1023,2024-03-12,77,3
+17,Customer 9,customer14@example.com,106,Product 101,Groceries,1071,2024-02-20,78,3
+7,Customer 4,,116,Product 107,Fashion,1092,2024-04-26,79,2
+19,Customer 18,customer9@example.com,113,Product 110,Groceries,1016,2024-05-17,80,2
+2,Customer 4,customer14@example.com,101,Product 108,Groceries,1095,2024-11-02,81,1
+1,Customer 18,customer18@example.com,101,Product 112,Accessories,1032,2024-09-03,82,3
+8,Customer 9,customer2@example.com,113,Product 107,Books,1044,2024-12-15,83,2
+18,Customer 15,customer17@example.com,118,Product 113,Electronics,1027,2024-03-04,84,1
+2,Customer 3,customer10@example.com,114,Product 108,Accessories,1061,2024-04-15,85,1
+14,Customer 1,customer4@example.com,113,Product 110,Electronics,1077,2024-04-10,86,4
+19,Customer 4,customer4@example.com,101,,Fashion,1084,2024-03-17,87,1
+9,Customer 2,customer17@example.com,103,Product 104,Accessories,1079,2024-05-04,88,1
+19,Customer 15,customer6@example.com,120,,Electronics,1097,2024-08-31,89,5
+19,Customer 18,customer9@example.com,102,Product 119,Fashion,1046,2024-08-30,90,4
+11,Customer 16,customer19@example.com,109,Product 118,Books,1042,2024-03-11,91,1
+16,Customer 1,customer17@example.com,106,Product 104,Electronics,1030,2024-05-26,92,5
+1,Customer 10,customer20@example.com,103,Product 105,Fashion,1043,2024-12-31,93,5
+1,Customer 1,customer16@example.com,106,Product 106,Electronics,1033,2024-02-11,94,4
+4,Customer 6,customer12@example.com,109,Product 111,Electronics,1052,2024-09-04,95,3
+8,Customer 2,customer17@example.com,105,Product 101,Books,1012,2024-10-27,96,4
+19,Customer 15,customer5@example.com,113,Product 107,Electronics,1016,2024-10-22,97,2
+15,Customer 10,,120,Product 110,Accessories,1074,2024-05-07,98,2
+19,Customer 13,customer2@example.com,111,Product 104,Accessories,1076,2024-06-16,99,1
+3,Customer 20,customer20@example.com,112,Product 111,Books,1019,2024-11-01,100,1
+10,Customer 13,customer8@example.com,108,Product 112,Books,1031,2024-09-22,101,3
+9,Customer 10,customer15@example.com,118,Product 106,Groceries,1023,2024-04-02,102,4
+11,Customer 3,customer6@example.com,106,Product 109,Electronics,1021,2024-04-02,103,4
+9,Customer 14,customer1@example.com,113,Product 105,Books,1095,2024-04-12,104,5
+3,Customer 6,customer3@example.com,120,Product 105,Books,1025,2024-03-02,105,1
+4,Customer 8,customer19@example.com,114,,Accessories,1093,2024-07-26,106,1
