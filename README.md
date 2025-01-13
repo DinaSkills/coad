@@ -4,7 +4,7 @@ Welcome to the Customer Orders Analytic dashboard project!
 
 ## Latest Release: 1.0.0
 
-![Release](https://img.shields.io/badge/release-v2.6.5-brightgreen)
+![Release](https://img.shields.io/badge/release-v1.0.0-brightgreen)
 
 This project demonstrates a simple ETL pipeline integrated with an interactive dashboard to analyze customer orders from an e-commerce dataset. The application showcases data processing, SQL querying, and visualization using Python and Streamlit.
 
